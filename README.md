@@ -16,4 +16,10 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"  height="40" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"  height="40" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"  height="40" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg"  height="40" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg"  height="40" width="40" />
 </p>
+
+### Статистика профиля
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ostrovskiyaa&theme=solarized_dark)
