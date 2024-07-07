@@ -11,7 +11,7 @@
 ### Я умею
 
 <p align="left">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"  height="40" width="40" />
+<img align="center" src="https://github.com/OstrovskiyAA/OstrovskiyAA/blob/main/icons/python-original-wordmark.svg"  height="40" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"  height="40" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"  height="40" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"  height="40" width="40" />
