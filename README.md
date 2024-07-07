@@ -7,3 +7,9 @@
 - Я пишу автотесты на **Python**
 - Моё резюме на [**Хабр Карьере**](https://career.habr.com/alexeyostrovskiy)
 - Со мной можно связаться по почте: **<a.a.ostrovskiy@mail.ru>**
+
+### Я умею
+
+<p align="left">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/icons/html5/html5-original.svg" height="40" width="40" />
+</p>
