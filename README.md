@@ -11,5 +11,5 @@
 ### Я умею
 
 <p align="left">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />" height="40" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="40" width="40" />
 </p>
