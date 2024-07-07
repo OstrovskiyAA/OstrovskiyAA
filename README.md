@@ -17,7 +17,7 @@
 <img align="center" src="https://github.com/OstrovskiyAA/OstrovskiyAA/blob/main/icons/selenium-original.svg"  height="40" width="40" />
 <img align="center" src="https://github.com/OstrovskiyAA/OstrovskiyAA/blob/main/icons/jenkins-original.svg"  height="40" width="40" />
 <img align="center" src="https://github.com/OstrovskiyAA/OstrovskiyAA/blob/main/icons/jira-original-wordmark.svg"  height="40" width="40" />
-<img align="center" src="https://github.com/OstrovskiyAA/OstrovskiyAA/blob/main/icons/postgresql-original-wordmark.svg  height="40" width="40" />
+<img align="center" src="https://github.com/OstrovskiyAA/OstrovskiyAA/blob/main/icons/postgresql-original-wordmark.svg"  height="40" width="40" />
 </p>
 
 ### Статистика профиля
