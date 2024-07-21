@@ -13,6 +13,7 @@
 <p align="left">
 <img align="center" src="https://github.com/OstrovskiyAA/OstrovskiyAA/blob/main/icons/python-original-wordmark.svg"  height="40" width="40" />
 <img align="center" src="https://github.com/OstrovskiyAA/OstrovskiyAA/blob/main/icons/pytest-original-wordmark.svg"  height="40" width="40" />
+<img align="center" src="https://github.com/OstrovskiyAA/OstrovskiyAA/blob/main/icons/playwright-original.svg"  height="40" width="40" />
 <img align="center" src="https://github.com/OstrovskiyAA/OstrovskiyAA/blob/main/icons/html5-original-wordmark.svg"  height="40" width="40" />
 <img align="center" src="https://github.com/OstrovskiyAA/OstrovskiyAA/blob/main/icons/selenium-original.svg"  height="40" width="40" />
 <img align="center" src="https://github.com/OstrovskiyAA/OstrovskiyAA/blob/main/icons/jenkins-original.svg"  height="40" width="40" />
