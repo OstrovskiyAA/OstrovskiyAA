@@ -3,7 +3,7 @@
 
 ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
 <h3 align="center"> Product manager </h3>
-- Со мной можно связаться по почте: <a.a.ostrovskiy@mail.ru>
+- Со мной можно связаться по почте: a.a.ostrovskiy@mail.ru
 
 ### Я умею
 
