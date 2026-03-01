@@ -2,10 +2,7 @@
 "https://ostrovskiyaa.github.io/CV/cv" target="_blank">Островский Алексей</a>
 
 ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-<h3 align="center"> QA Engineer </h3>
-
-- Я пишу автотесты на **Python**
-- Моё резюме на [**Хабр Карьере**](https://career.habr.com/alexeyostrovskiy)
+<h3 align="center"> Product manager </h3>
 - Со мной можно связаться по почте: **<a.a.ostrovskiy@mail.ru>**
 
 ### Я умею
